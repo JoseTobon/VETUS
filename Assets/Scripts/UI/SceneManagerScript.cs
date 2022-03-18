@@ -18,6 +18,8 @@ public class SceneManagerScript : MonoBehaviour
 
     public void loadScene(string scene)
     {
+        print("OnClick");
         SceneManager.LoadScene(scene, LoadSceneMode.Single);
+
     }
 }

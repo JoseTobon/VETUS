@@ -212,6 +212,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &524224481
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,12 +383,182 @@ CanvasRenderer:
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 --- !u!1001 &8645278798594988941
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1 &524224481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 524224482}
+  - component: {fileID: 524224484}
+  - component: {fileID: 524224483}
+  m_Layer: 5
+  m_Name: bienvenido
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &524224482
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524224481}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8645278798594988942}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 10, y: -35}
+  m_SizeDelta: {x: 277.466, y: 40.091003}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &524224483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524224481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 25
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: BIENVENIDO A VETUS
+--- !u!222 &524224484
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524224481}
+  m_CullTransparentMesh: 1
+--- !u!1 &649758818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 649758819}
+  - component: {fileID: 649758821}
+  - component: {fileID: 649758820}
+  m_Layer: 5
+  m_Name: descripcion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &649758819
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649758818}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8645278798594988942}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1, y: 11}
+  m_SizeDelta: {x: 196.2722, y: 39.0681}
+  m_Pivot: {x: 0.49999994, y: 0.5}
+--- !u!114 &649758820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649758818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Gracias por su preocupaci\xF3n por las personas mayores."
+--- !u!222 &649758821
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649758818}
+  m_CullTransparentMesh: 1
+--- !u!1001 &683568739
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 --- !u!1001 &8645278798594988941
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 --- !u!1001 &8645278798594988941
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+--- !u!1001 &8645278798594988941
+>>>>>>> Creacion Dos Primeras Pantallas Login
+<<<<<<< HEAD
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -395,6 +566,7 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -753,9 +925,58 @@ MonoBehaviour:
 >>>>>>> creacion de todas las preguntas en la escena desempeno y sus respectvas propiedades
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
     - target: {fileID: 1779685381, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 298
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -158
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+>>>>>>> Creacion Dos Primeras Pantallas Login
       objectReference: {fileID: 0}
     - target: {fileID: 1779685381, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -778,6 +999,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
 >>>>>>> Creacion Dos Primeras Pantallas Login
     - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -842,14 +1065,23 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
-=======
->>>>>>> Creacion Dos Primeras Pantallas Login
-=======
 >>>>>>> Creacion Dos Primeras Pantallas Login

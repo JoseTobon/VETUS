@@ -392,6 +392,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -734,6 +735,8 @@ MonoBehaviour:
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
     - target: {fileID: 1779685381, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 298
@@ -742,7 +745,12 @@ MonoBehaviour:
       propertyPath: m_AnchoredPosition.y
       value: 197.5
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 >>>>>>> creacion de todas las preguntas en la escena desempeno y sus respectvas propiedades
+=======
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
+>>>>>>> Creacion Dos Primeras Pantallas Login
     - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 36

@@ -547,12 +547,18 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> creacion de todas las preguntas en la escena desempeno y sus respectvas propiedades
+=======
+=======
+>>>>>>> cambios pantalla bienvenida
+>>>>>>> cambios pantalla bienvenida
   m_AnchoredPosition: {x: 0, y: -125}
 =======
   m_AnchoredPosition: {x: 2, y: -60}
 >>>>>>> cambios pantalla bienvenida
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   m_AnchoredPosition: {x: 2, y: -60}
@@ -562,6 +568,8 @@ RectTransform:
 >>>>>>> creacion de todas las preguntas en la escena desempeno y sus respectvas propiedades
   m_AnchoredPosition: {x: 0, y: -125}
 >>>>>>> creacion de todas las preguntas en la escena desempeno y sus respectvas propiedades
+=======
+>>>>>>> cambios pantalla bienvenida
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1967078056

@@ -123,6 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!222 &756689489
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -481,6 +482,82 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+=======
+--- !u!1001 &852589359
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1716939541, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_Text
+      value: CONTACTE
+      objectReference: {fileID: 0}
+    - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -133
+      objectReference: {fileID: 0}
+    - target: {fileID: 1971686866, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_Text
+      value: "Al entrar a Vetus, prodr\xE1 ser parte de la red de salud geri\xE1trica
+        m\xE1s grande de M\xE9xico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806514550776158738, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_Name
+      value: Fondo Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -43
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -158
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+>>>>>>> Creacion Dos Primeras Pantallas Login
 --- !u!1 &1824777251
 GameObject:
   m_ObjectHideFlags: 0
@@ -564,6 +641,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &2061813851
 GameObject:
   m_ObjectHideFlags: 0
@@ -706,3 +784,5 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 815723061515738056, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
   m_PrefabInstance: {fileID: 8645278798152421057}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login

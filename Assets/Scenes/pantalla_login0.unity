@@ -206,6 +206,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &524224481
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,12 +366,16 @@ CanvasRenderer:
   m_GameObject: {fileID: 649758818}
   m_CullTransparentMesh: 1
 --- !u!1001 &683568739
+=======
+--- !u!1001 &8645278798594988941
+>>>>>>> Creacion Dos Primeras Pantallas Login
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -705,3 +710,63 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Saltar
+=======
+    - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -144
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806514550776158738, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_Name
+      value: Fondo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -158
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368030760899559641, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+>>>>>>> Creacion Dos Primeras Pantallas Login

@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &756689489
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -483,6 +484,8 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 =======
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
 --- !u!1001 &852589359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -557,6 +560,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
+<<<<<<< HEAD
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 --- !u!1 &1824777251
 GameObject:
@@ -641,6 +647,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &2061813851
 GameObject:
@@ -784,5 +791,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 815723061515738056, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
   m_PrefabInstance: {fileID: 8645278798152421057}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login

@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/pantalla_login2.unity
     guid: f309859b2ae536b4e93f319d1b26bb44
+  - enabled: 1
+    path: Assets/Scenes/Desempeno.unity
+    guid: d5d95e7cba866144b810e3c521052424
   m_configObjects: {}

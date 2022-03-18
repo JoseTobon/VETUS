@@ -387,6 +387,7 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &524224481
 GameObject:
   m_ObjectHideFlags: 0
@@ -558,6 +559,11 @@ CanvasRenderer:
 >>>>>>> Creacion Dos Primeras Pantallas Login
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+=======
+--- !u!1001 &8645278798594988941
+>>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
 PrefabInstance:
@@ -933,6 +939,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -999,6 +1006,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
@@ -1074,6 +1083,9 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======

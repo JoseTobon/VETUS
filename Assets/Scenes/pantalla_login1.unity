@@ -127,6 +127,7 @@ NavMeshSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
@@ -509,6 +510,8 @@ GameObject:
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+>>>>>>> 5d7b0ab (Creacion Dos Primeras Pantallas Login)
 --- !u!1001 &852589359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -589,6 +592,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
@@ -611,6 +615,8 @@ PrefabInstance:
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+>>>>>>> 5d7b0ab (Creacion Dos Primeras Pantallas Login)
 --- !u!1 &1824777251
 GameObject:
   m_ObjectHideFlags: 0
@@ -694,6 +700,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -865,3 +872,5 @@ RectTransform:
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 >>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+>>>>>>> 5d7b0ab (Creacion Dos Primeras Pantallas Login)

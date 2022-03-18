@@ -27,7 +27,7 @@ Para geriatras que requieran agilizar sus trabajos, Vetus se trata de una aplica
 
 
 
-## Built with
+## Construido con
 
 * [Unity](https://unity.com/es)
 
@@ -35,7 +35,7 @@ Para geriatras que requieran agilizar sus trabajos, Vetus se trata de una aplica
 
 
 <!-- CONTACT -->
-## Contributors and information
+## Equipo e información
 
 
 Ciclo 1. Base de datos
@@ -71,9 +71,9 @@ Link del proyecto: [https://github.com/JoseTobon/VETUS](https://github.com/JoseT
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Recursos y referencias
 
-Documentos, recursos, código, imágenes, entre otros usados en Aergio:
+Documentos, recursos, código, imágenes, entre otros usados en Vetus:
 
 * [Imagen header](https://unsplash.com/photos/z_8Jqe0Cc-s)
 * [Shields](https://shields.io/)

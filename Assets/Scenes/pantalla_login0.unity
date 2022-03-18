@@ -208,6 +208,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &524224481
 GameObject:
   m_ObjectHideFlags: 0
@@ -373,12 +374,16 @@ CanvasRenderer:
 =======
 --- !u!1001 &8645278798594988941
 >>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+--- !u!1001 &8645278798594988941
+>>>>>>> Creacion Dos Primeras Pantallas Login
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 277821193173857591, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
@@ -718,6 +723,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login
+=======
+>>>>>>> Creacion Dos Primeras Pantallas Login
     - target: {fileID: 1971686865, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 36
@@ -777,6 +784,9 @@ MonoBehaviour:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c5385a2251193a4091f333f1e9c33a7, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Creacion Dos Primeras Pantallas Login
+=======
 >>>>>>> Creacion Dos Primeras Pantallas Login
 =======
 >>>>>>> Creacion Dos Primeras Pantallas Login

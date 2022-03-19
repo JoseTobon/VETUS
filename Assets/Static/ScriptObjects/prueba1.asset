@@ -12,11 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecda0f1c9158d4b4895cc50b693cbfd4, type: 3}
   m_Name: prueba1
   m_EditorClassIdentifier: 
-  instrucciones: "Escribe las instrucciones aqu\xED:"
+  instrucciones: Pararse con los pies uno a cada lado del otro
   imagenInstruccion: {fileID: 0}
   opciones:
-  - 
-  - 
-  - 
-  segundos: 0
-  puntajePregunta: 0
+  - "S\xED"
+  - No
+  - "Se reh\xFAsa"

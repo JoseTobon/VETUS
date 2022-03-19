@@ -660,7 +660,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 679810487}
-  - component: {fileID: 679810488}
   m_Layer: 5
   m_Name: Clock
   m_TagString: Untagged
@@ -690,19 +689,6 @@ RectTransform:
   m_AnchoredPosition: {x: 2, y: 106}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &679810488
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 679810486}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a452b8481e368a74eaf7b962aae787c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timeText: {fileID: 1243129339}
 --- !u!1 &768519947
 GameObject:
   m_ObjectHideFlags: 0
@@ -782,6 +768,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 768519947}
   m_CullTransparentMesh: 1
+--- !u!1 &1217989685 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9005646385649221513, guid: f4cc7f1e64ec7ee4ab0766cc3b03286e, type: 3}
+  m_PrefabInstance: {fileID: 504562197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1217989686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1217989685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a452b8481e368a74eaf7b962aae787c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeText: {fileID: 1243129339}
+  reloj: {fileID: 108086690}
+  pruebas: []
 --- !u!1 &1243129337
 GameObject:
   m_ObjectHideFlags: 0

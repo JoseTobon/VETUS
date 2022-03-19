@@ -11,6 +11,8 @@ public class PruebaBalanceSO : ScriptableObject
     [SerializeField] string instrucciones = "Escribe las instrucciones aquí:";
     [SerializeField] Image imagenInstruccion;
     [SerializeField] string[] opciones = new string[3];
+    [SerializeField] string tipoPrueba = "Escribe el tipo de prueba";
+
 
     public string GetInstrucciones()
     {

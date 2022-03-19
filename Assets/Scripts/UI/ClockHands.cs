@@ -7,10 +7,12 @@ public class ClockHands : MonoBehaviour
     // Start is called before the first frame update
     private Transform ClockHand;
     public Text timeText;
+    public Image reloj;
+
+    public PruebaBalanceSO[] pruebas;
     void Start()
     {
-        ClockHand = transform.Find("hand");
-
+        ClockHand = reloj.transform;
     }
 
     // Update is called once per frame

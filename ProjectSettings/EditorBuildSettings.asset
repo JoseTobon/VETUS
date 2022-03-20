@@ -7,19 +7,31 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: 
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Pantalla2.unity
     guid: e81da515cfe20f944a97e493292e98ce
-  - enabled: 1
-    path: Assets/Scenes/Prueba_pantalla_inicio.unity
-    guid: 7b51ade97f7e2f345ae61cf2ee164d03
-  - enabled: 1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/prueba.unity
     guid: f341da2ae9a9bf1478c29869a0edb4a0
   - enabled: 1
+    path: Assets/Scenes/pantalla_bienvenida0.unity
+    guid: e3a54d4c3f669e742846cdd32844b47d
+  - enabled: 1
+    path: Assets/Scenes/pantalla_login0.unity
+    guid: 854417abeb1a9874da9ed9aa6f357cf1
+  - enabled: 1
+    path: Assets/Scenes/pantalla_login1.unity
+    guid: 6ab2a6c15717cc547bc8f7716566d09f
+  - enabled: 1
     path: Assets/Scenes/pantalla_login2.unity
     guid: f309859b2ae536b4e93f319d1b26bb44
+  - enabled: 1
+    path: Assets/Scenes/Prueba_pantalla_inicio.unity
+    guid: 01517f2381431b64c885523635454e75
   - enabled: 1
     path: Assets/Scenes/Desempeno.unity
     guid: d5d95e7cba866144b810e3c521052424

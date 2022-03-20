@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecda0f1c9158d4b4895cc50b693cbfd4, type: 3}
+  m_Name: balance2_prueba
+  m_EditorClassIdentifier: 
+  esPrueba: 1
+  esPruebaCronometrada: 0
+  instrucciones: "Pararse en posicion semi-t\xE1ndem"
+  titulo: Prueba de balance
+  textoBoton: Continuar
+  MAX_TIME: 15
+  imagenInstruccion: {fileID: 21300000, guid: ef2ada06cf2fc2045bbe922fefc5e5bf, type: 3}

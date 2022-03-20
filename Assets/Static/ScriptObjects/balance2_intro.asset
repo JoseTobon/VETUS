@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ecda0f1c9158d4b4895cc50b693cbfd4, type: 3}
-  m_Name: Prueba2
+  m_Name: balance2_intro
   m_EditorClassIdentifier: 
   esPrueba: 0
   esPruebaCronometrada: 0
-  instrucciones: Pararse en posicion semi tandem
-  titulo: "Prueba de Desempe\xF1o"
+  instrucciones: "Pararse en posicion semi-t\xE1ndem"
+  titulo: Prueba de balance
   textoBoton: Iniciar
   MAX_TIME: 15
-  imagenInstruccion: {fileID: 0}
+  imagenInstruccion: {fileID: 21300000, guid: ef2ada06cf2fc2045bbe922fefc5e5bf, type: 3}

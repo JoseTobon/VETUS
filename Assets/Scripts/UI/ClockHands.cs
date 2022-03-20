@@ -36,7 +36,7 @@ public class ClockHands : MonoBehaviour
         Titulo.text = prueba_actual.Gettitulo();
         descripcion.text = prueba_actual.Getinstrucciones();
         Instrucciones.sprite= prueba_actual.GetimagenInstruccion();
-        
+        MAX_TIME = prueba_actual.GetMAX_TIME();
         ConfigureButtons(prueba_actual);
         
     }

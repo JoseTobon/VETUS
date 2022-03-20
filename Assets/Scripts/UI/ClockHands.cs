@@ -20,6 +20,7 @@ public class ClockHands : MonoBehaviour
     // private List<PruebaBalanceSO> pruebas = GlobalVariables.Instance.pruebas ;
     private int index_prueba;
     private bool pausa = false;
+    private int attempts = 0;
     void Start()
     {
         print(GlobalVariables.Instance.pruebas);
@@ -68,10 +69,11 @@ public class ClockHands : MonoBehaviour
     }
     public void OnReiniciar()
     {
-        
+        attempts+=1;
         currentTime = 0;
         TimeHandler();
         pausa= true;
+
     }
     public void OnIniciar()
     {
@@ -80,6 +82,7 @@ public class ClockHands : MonoBehaviour
     
     public void OnContinue()
     {
+        SaveResults();
         if (index_prueba <  GlobalVariables.Instance.pruebas.Count-1)
         {
               
@@ -97,8 +100,14 @@ public class ClockHands : MonoBehaviour
     private void SaveResults()
     {
         GlobalVariables.Instance.pruebas[index_prueba].SetTiempo(currentTime);
-
-        GlobalVariables.Instance.pruebas[index_prueba].SetResultado(1);
+        print("Current time");
+        print(currentTime);
+        print("New Resultado");
+        
+        int newResultado = (currentTime >=15) ? 1:0;
+        print(newResultado);
+        GlobalVariables.Instance.pruebas[index_prueba].SetResultado(newResultado);
+        GlobalVariables.Instance.pruebas[index_prueba].SetAttempts(attempts);
         
               
     }

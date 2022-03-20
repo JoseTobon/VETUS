@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ecda0f1c9158d4b4895cc50b693cbfd4, type: 3}
-  m_Name: prueba1
+  m_Name: Prueba2
   m_EditorClassIdentifier: 
-  esPrueba: 1
+  esPrueba: 0
   esPruebaCronometrada: 0
-  instrucciones: Pararse con los pies uno a cada lado del otro
+  instrucciones: Pararse en posicion semi tandem
   titulo: "Prueba de Desempe\xF1o"
   textoBoton: Iniciar
   MAX_TIME: 15
-  imagenInstruccion: {fileID: 21300000, guid: 13641c50f4e58a24fb4a4206d2ba4c7a, type: 3}
+  imagenInstruccion: {fileID: 0}

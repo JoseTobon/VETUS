@@ -444,6 +444,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1828986495}
     m_Modifications:
+    - target: {fileID: 3433282905109204308, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
+      propertyPath: pass
+      value: 
+      objectReference: {fileID: 1066434355}
+    - target: {fileID: 3433282905109204308, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
+      propertyPath: user
+      value: 
+      objectReference: {fileID: 868715644}
     - target: {fileID: 3433282905226066829, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
       propertyPath: m_Text
       value: "Iniciar Sesi\xF3n"
@@ -470,7 +478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3433282905632820106, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: loadScene
+      value: loadAndValidateScene
       objectReference: {fileID: 0}
     - target: {fileID: 3433282905632820107, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
       propertyPath: m_Pivot.x
@@ -798,7 +806,7 @@ GameObject:
   - component: {fileID: 1066434356}
   - component: {fileID: 1066434355}
   m_Layer: 5
-  m_Name: InputField
+  m_Name: InputField2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

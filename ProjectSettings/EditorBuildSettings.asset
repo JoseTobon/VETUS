@@ -5,45 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/Pantalla2.unity
-    guid: e81da515cfe20f944a97e493292e98ce
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/prueba.unity
-    guid: f341da2ae9a9bf1478c29869a0edb4a0
   - enabled: 1
-<<<<<<< HEAD
     path: Assets/Scenes/pantalla_bienvenida.unity
     guid: 5a1f867f931028c44b4f1c4246ca691c
   - enabled: 1
-    path: Assets/Scenes/login0.unity
-    guid: ada16919f2174454f8aa7e96121a1d08
-  - enabled: 1
     path: Assets/Scenes/login1.unity
     guid: 746b3fa00968cbf4382ef4c080ffe54d
-  - enabled: 0
-    path: Assets/Scenes/pantalla_bienvenida0.unity
-    guid: e3a54d4c3f669e742846cdd32844b47d
-  - enabled: 0
-    path: Assets/Scenes/pantalla_login0.unity
-    guid: 854417abeb1a9874da9ed9aa6f357cf1
-  - enabled: 0
-=======
-    path: Assets/Scenes/pantalla_bienvenida0.unity
-    guid: e3a54d4c3f669e742846cdd32844b47d
   - enabled: 1
-    path: Assets/Scenes/pantalla_login0.unity
-    guid: 854417abeb1a9874da9ed9aa6f357cf1
-  - enabled: 1
->>>>>>> creacion de todas las preguntas en la escena desempeno y sus respectvas propiedades
-    path: Assets/Scenes/pantalla_login1.unity
-    guid: 6ab2a6c15717cc547bc8f7716566d09f
+    path: Assets/Scenes/login0.unity
+    guid: ada16919f2174454f8aa7e96121a1d08
   - enabled: 1
     path: Assets/Scenes/pantalla_login2.unity
     guid: f309859b2ae536b4e93f319d1b26bb44

@@ -215,7 +215,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3433282905226066829, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
       propertyPath: m_Text
-      value: Prueba de Sarcopia
+      value: Prueba de Sarcopenia
       objectReference: {fileID: 0}
     - target: {fileID: 3433282905226066829, guid: da754acd9152a3740a205db83cc1b06a, type: 3}
       propertyPath: m_FontData.m_MinSize

@@ -104,7 +104,7 @@ public class ClockHands : MonoBehaviour
         print(currentTime);
         print("New Resultado");
         
-        int newResultado = (currentTime >=15) ? 1:0;
+        int newResultado = (currentTime <=15) ? 1:0;
         print(newResultado);
         GlobalVariables.Instance.pruebas[index_prueba].SetResultado(newResultado);
         GlobalVariables.Instance.pruebas[index_prueba].SetAttempts(attempts);

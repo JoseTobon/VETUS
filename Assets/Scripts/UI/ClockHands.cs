@@ -104,12 +104,39 @@ public class ClockHands : MonoBehaviour
         print(currentTime);
         print("New Resultado");
         
-        int newResultado = (currentTime <=15) ? 1:0;
+        int newResultado = asignarResultado(currentTime);
         print(newResultado);
         GlobalVariables.Instance.pruebas[index_prueba].SetResultado(newResultado);
         GlobalVariables.Instance.pruebas[index_prueba].SetAttempts(attempts);
-        
-              
+    }
+
+    private int asignarResultado(float tiempo)
+    {
+        int result = 0;
+        PruebaBalanceSO prueba_actual = GlobalVariables.Instance.pruebas[index_prueba];
+        if (prueba_actual.Gettitulo() == "Prueba de balance" && prueba_actual.GetesPrueba())
+        {
+            result = tiempo >= 10f ? 2:
+                tiempo < 10f && tiempo >= 3f ? 1:
+                0;
+        }
+        else if (prueba_actual.Gettitulo() == "Prueba de velocidad" && prueba_actual.GetesPrueba())
+        {
+            result = tiempo <= 4.82f ? 4:
+                tiempo > 4.82f && tiempo <= 6.2f ? 3 :
+                tiempo > 6.21 && tiempo <= 8.7f ? 2 :
+                1;
+        }
+        else if (prueba_actual.Gettitulo() == "Prueba de levantarse cinco veces de una silla" && prueba_actual.GetesPrueba())
+        {
+            result = tiempo <= 11.19f ? 4 :
+                tiempo >= 11.2f && tiempo <= 13.69f ? 3 :
+                tiempo >= 13.7 && tiempo <= 16.69 ? 2 :
+                tiempo >= 16.7 && tiempo <= 60 ? 1 :
+                0;
+        }
+
+        return result;
     }
     void TimeHandler()
     {

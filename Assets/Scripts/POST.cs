@@ -10,12 +10,13 @@ public class POST : MonoBehaviour
     void Start()
     {
         string json = generarJSON();
-        StartCoroutine(postRequest("localhost:3002/resultados", json));
+        StartCoroutine(postRequest("127.0.0.1/resultados", json));
     }
 
     IEnumerator postRequest(string url, string json)
     {
         var uwr = new UnityWebRequest(url, "POST");
+        uwr.SetRequestHeader("Access-Control-Allow-Origin", "*");
         byte[] jsonToSend = new System.Text.UTF8Encoding().GetBytes(json);
         uwr.uploadHandler = (UploadHandler)new UploadHandlerRaw(jsonToSend);
         uwr.downloadHandler = (DownloadHandler)new DownloadHandlerBuffer();
